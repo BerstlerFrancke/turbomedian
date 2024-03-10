@@ -1,0 +1,26 @@
+{
+  "name": "turbomedian",
+  "version": "1.0.0",
+  "description": "Simply functionality calculating average oss  CA beta",
+  "main": "average.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "are-arrays": "^1.0.0",
+    "are-objects": "^1.0.0",
+    "turbomedian": "^1.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BerstlerFrancke/turbomedian.git"
+  },
+  "homepage": "https://twitter.com/LisaSarah388767",
+  "keywords": [
+    "average",
+    "calculate",
+    "math"
+  ],
+  "author": "BerstlerFrancke",
+  "license": "MIT"
+}
